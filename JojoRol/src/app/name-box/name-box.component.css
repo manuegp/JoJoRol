@@ -1,0 +1,17 @@
+thead{
+    background-color: grey;
+}
+table{
+    padding: 0;
+    margin: 0;
+}
+
+td{
+    text-align: center;
+    border-style: solid;
+    
+}
+
+th{
+    text-align: center;
+}

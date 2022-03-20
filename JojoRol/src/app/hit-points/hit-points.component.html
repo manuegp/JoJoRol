@@ -1,0 +1,18 @@
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Puntos de vida</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="numero">{{this.hitPoints}}</td>
+    </tr>
+    <tr>
+      <td class="botones">
+          <button class="btn btn-danger" (click)="decrementarHP()">-</button>
+          <button class="btn btn-success" (click)="incrementarHP()">+</button>
+      </td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,19 @@
+th{
+    text-align: center;
+}
+
+.numero{
+    text-align: center;
+    font-size: 45px;
+}
+
+button{
+    font-size: 40px;
+    
+    width: 50%;    
+    padding: 10px;
+}
+
+.botones{
+padding: 0;
+}

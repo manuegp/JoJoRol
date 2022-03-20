@@ -1,0 +1,9 @@
+table{
+    text-align: center;
+    border-spacing: 0;
+    table-layout: fixed;
+}
+
+.habilidad{
+    text-align: left;
+}
